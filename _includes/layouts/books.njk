@@ -5,8 +5,7 @@ isDocs: true
 ---
 
 <div id="TOC" class="elv-toc">
-
-<details open>
+<details open="open">
 	<summary class="details btn-primary rainbow-active rainbow-active-noanim">Menu</summary>
 	{%- if eleventyNavigation -%}
 		{%- set navKey = eleventyNavigation.key -%}
@@ -24,8 +23,7 @@ isDocs: true
   {{ collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) | eleventyNavigationToHtml({ listClass: 'lo lo-inline', listItemClass: 'lo-c', activeListItemClass: 'breadcrumb-active' }) | safe }}
 </nav>
 {% endif %}
-
-<div class="h-entry">
+  <div class="h-entry">
 <p><a href="{{ url | url }}" class="text-4xl u-url rainbow-active"><h2 class="p-name">{{ eleventyNavigation.key }}</h2></a></p>
 <div class="e-content">
     {% if isbn13 %}
