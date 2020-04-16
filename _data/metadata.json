@@ -1,14 +1,14 @@
 {
-  "title": "Glenn 2.0",
-  "url": "https://glenn.thedixons.net/",
-  "domain": "glenn.thedixons.net",
-  "description": "New! Improved! Retired!",
+  "title": "Glenn's Books",
+  "url": "https://books.thedixons.net/",
+  "domain": "books.thedixons.net",
+  "description": "Books I've Read and/or reviewed",
   "feed": {
-    "subtitle": "New! Improved! Retired!",
+    "subtitle": "",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://glenn.thedixons.net/feed/feed.xml",
-    "id": "https://glenn.thedixons.net/"
+    "url": "https://books.thedixons.net/feed/feed.xml",
+    "id": "https://books.thedixons.net/"
   },
   "author": {
     "name": "Glenn Dixon",
