@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Life on Foot'
 author: Glenn Dixon
 layout: layouts/books.njk

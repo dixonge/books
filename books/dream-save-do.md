@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Dream Save Do'
 author: Glenn Dixon
 layout: layouts/books.njk

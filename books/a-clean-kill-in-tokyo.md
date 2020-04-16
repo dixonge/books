@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'A Clean Kill in Tokyo '
 author: Glenn Dixon
 layout: layouts/books.njk

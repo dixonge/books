@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Holy Bible'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Finding Everett Ruess'
 author: Glenn Dixon
 layout: layouts/books.njk

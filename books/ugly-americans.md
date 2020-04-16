@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Ugly Americans'
 author: Glenn Dixon
 layout: layouts/books.njk

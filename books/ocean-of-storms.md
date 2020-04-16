@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Ocean of Storms
 author: Glenn Dixon
 layout: layouts/books.njk

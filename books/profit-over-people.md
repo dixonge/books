@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Profit Over People'
 author: Glenn Dixon
 layout: layouts/books.njk

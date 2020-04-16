@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'On the Move'
 author: Glenn Dixon
 layout: layouts/books.njk

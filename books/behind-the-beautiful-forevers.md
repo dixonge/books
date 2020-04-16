@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Behind the Beautiful Forevers'
 author: Glenn Dixon
 layout: layouts/books.njk

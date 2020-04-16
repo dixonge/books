@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Mysterious Island '
 author: Glenn Dixon
 layout: layouts/books.njk

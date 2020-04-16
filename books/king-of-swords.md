@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: King of Swords
 author: Glenn Dixon
 layout: layouts/books.njk

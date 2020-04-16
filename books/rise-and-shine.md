@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Rise and Shine'
 author:
   - Simon Lewis

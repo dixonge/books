@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Playing for Keeps
 author: Glenn Dixon
 layout: layouts/books.njk

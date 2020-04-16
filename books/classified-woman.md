@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Classified Woman
 author: Glenn Dixon
 layout: layouts/books.njk

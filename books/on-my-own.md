@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: On My Own
 author: Glenn Dixon
 layout: layouts/books.njk

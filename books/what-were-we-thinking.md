@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: What Were We Thinking?
 author: Glenn Dixon
 layout: layouts/books.njk

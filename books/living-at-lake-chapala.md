@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Living at Lake Chapala
 author: Glenn Dixon
 layout: layouts/books.njk

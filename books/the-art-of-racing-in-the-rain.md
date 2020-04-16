@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Art of Racing in the Rain
 author: Glenn Dixon
 layout: layouts/books.njk

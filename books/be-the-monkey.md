@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Be the Monkey'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Endurance'
 author: Glenn Dixon
 layout: layouts/books.njk

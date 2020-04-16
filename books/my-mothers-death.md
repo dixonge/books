@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'On Hearing of My Mother’s Death Six Years After It Happened'
 author: Glenn Dixon
 layout: layouts/books.njk

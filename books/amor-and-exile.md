@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Amor and Exile
 author: Glenn Dixon
 layout: layouts/books.njk

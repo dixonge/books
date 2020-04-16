@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Caliban’s War '
 author: Glenn Dixon
 layout: layouts/books.njk

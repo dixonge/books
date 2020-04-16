@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Zodiac
 author: Glenn Dixon
 layout: layouts/books.njk

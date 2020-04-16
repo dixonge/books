@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Man in the High Castle
 author: Glenn Dixon
 layout: layouts/books.njk

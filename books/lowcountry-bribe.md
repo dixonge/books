@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Lowcountry Bribe '
 author: Glenn Dixon
 layout: layouts/books.njk

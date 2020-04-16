@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Templar Concordat
 author: Glenn Dixon
 layout: layouts/books.njk

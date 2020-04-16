@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: A Year in Provence
 author: Glenn Dixon
 layout: layouts/books.njk

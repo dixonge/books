@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Still Life With Brass Pole
 author: Glenn Dixon
 layout: layouts/books.njk

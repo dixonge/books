@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Lisa Emmer Historical Thrillers Vol. 1-2 (Lisa Emmer Historical Thriller Series)
 author: Glenn Dixon
 layout: layouts/books.njk

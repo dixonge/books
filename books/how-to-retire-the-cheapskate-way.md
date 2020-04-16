@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'How to Retire the Cheapskate Way'
 author: Glenn Dixon
 layout: layouts/books.njk

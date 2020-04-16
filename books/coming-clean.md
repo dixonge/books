@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Coming Clean
 author: Glenn Dixon
 layout: layouts/books.njk

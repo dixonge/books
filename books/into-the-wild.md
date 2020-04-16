@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Into the Wild
 author: Glenn Dixon
 layout: layouts/books.njk

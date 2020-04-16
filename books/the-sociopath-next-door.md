@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Sociopath Next Door
 author: Glenn Dixon
 layout: layouts/books.njk

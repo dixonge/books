@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Fast Times in Palestine'
 author: Glenn Dixon
 layout: layouts/books.njk

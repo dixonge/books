@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Primal Blueprint'
 author: Glenn Dixon
 layout: layouts/books.njk

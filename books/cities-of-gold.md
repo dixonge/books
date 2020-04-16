@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Cities of Gold'
 author: Glenn Dixon
 layout: layouts/books.njk

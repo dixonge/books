@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Leviathan Wakes '
 author: Glenn Dixon
 layout: layouts/books.njk

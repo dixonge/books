@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Flour Water Salt Yeast'
 author: Glenn Dixon
 layout: layouts/books.njk

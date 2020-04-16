@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Life and Times of the Thunderbolt Kid
 author: Glenn Dixon
 layout: layouts/books.njk

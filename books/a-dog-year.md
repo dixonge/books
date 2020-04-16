@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'A Dog Year'
 author: Glenn Dixon
 layout: layouts/books.njk

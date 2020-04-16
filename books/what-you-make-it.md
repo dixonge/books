@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'What You Make It'
 author: Glenn Dixon
 layout: layouts/books.njk

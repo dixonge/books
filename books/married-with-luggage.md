@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Married with Luggage'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Surveillance Valley'
 author: Glenn Dixon
 layout: layouts/books.njk

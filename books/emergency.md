@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Emergency'
 author: Glenn Dixon
 layout: layouts/books.njk

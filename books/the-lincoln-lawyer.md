@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Lincoln Lawyer '
 author: Glenn Dixon
 layout: layouts/books.njk

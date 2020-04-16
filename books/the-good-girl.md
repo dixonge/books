@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Good Girl
 author: Glenn Dixon
 layout: layouts/books.njk

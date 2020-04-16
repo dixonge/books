@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Quicksilver '
 author: Glenn Dixon
 layout: layouts/books.njk

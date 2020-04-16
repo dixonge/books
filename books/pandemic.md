@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Pandemic '
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Eddie'
 author: Glenn Dixon
 layout: layouts/books.njk

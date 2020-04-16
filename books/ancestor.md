@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Ancestor
 author: Glenn Dixon
 layout: layouts/books.njk

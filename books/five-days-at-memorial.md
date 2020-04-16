@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Five Days at Memorial'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Wild Trees'
 author: Glenn Dixon
 layout: layouts/books.njk

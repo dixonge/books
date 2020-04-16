@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Those Girls'
 author: Glenn Dixon
 layout: layouts/books.njk

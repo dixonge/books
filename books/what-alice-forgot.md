@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: What Alice Forgot
 author: Glenn Dixon
 layout: layouts/books.njk

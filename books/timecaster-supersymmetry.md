@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Timecaster Supersymmetry '
 author: Glenn Dixon
 layout: layouts/books.njk

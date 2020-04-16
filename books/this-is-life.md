@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: This Is Life a Jack Palms Novel
 author: Glenn Dixon
 layout: layouts/books.njk

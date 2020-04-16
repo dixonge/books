@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The God Delusion
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: "Anathem"
 layout: layouts/books.njk
 author: Glenn Dixon

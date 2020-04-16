@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: "Reamde"
 layout: layouts/books.njk
 draft: false

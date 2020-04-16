@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Good Calories, Bad Calories'
 author: Glenn Dixon
 layout: layouts/books.njk

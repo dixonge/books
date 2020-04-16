@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Dark Tower '
 author: Glenn Dixon
 layout: layouts/books.njk

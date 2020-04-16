@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Beacon 23 '
 author: Glenn Dixon
 layout: layouts/books.njk

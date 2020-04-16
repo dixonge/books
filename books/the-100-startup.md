@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The $100 Startup'
 author: Glenn Dixon
 layout: layouts/books.njk

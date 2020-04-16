@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Caxton Tempest at the End of the World
 author: Glenn Dixon
 layout: layouts/books.njk

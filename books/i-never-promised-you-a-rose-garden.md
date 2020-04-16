@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: I Never Promised You a Rose Garden
 author: Glenn Dixon
 layout: layouts/books.njk

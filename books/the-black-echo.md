@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Black Echo'
 author: Glenn Dixon
 layout: layouts/books.njk

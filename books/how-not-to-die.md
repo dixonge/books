@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'How Not to Die'
 author: Glenn Dixon
 layout: layouts/books.njk

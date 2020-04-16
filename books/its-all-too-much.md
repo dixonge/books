@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'It’s All Too Much'
 author: Glenn Dixon
 layout: layouts/books.njk

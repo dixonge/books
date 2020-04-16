@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Brave Men Run – A Novel of the Sovereign Era
 author: Glenn Dixon
 layout: layouts/books.njk

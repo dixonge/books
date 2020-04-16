@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Call of the Wild
 author: Glenn Dixon
 layout: layouts/books.njk

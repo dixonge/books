@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Judgment of Paris'
 author: Glenn Dixon
 layout: layouts/books.njk

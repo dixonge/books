@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Plum Island '
 author: Glenn Dixon
 layout: layouts/books.njk

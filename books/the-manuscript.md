@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Manuscript '
 author: Glenn Dixon
 layout: layouts/books.njk

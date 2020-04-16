@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Concrete Blonde'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Pledge to the Wind, the Legend of Everett Ruess
 author: Glenn Dixon
 layout: layouts/books.njk

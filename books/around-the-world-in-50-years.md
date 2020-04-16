@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Around the World in 50 Years'
 author: Glenn Dixon
 layout: layouts/books.njk

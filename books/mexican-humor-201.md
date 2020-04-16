@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Mexican Humor 201
 author: Glenn Dixon
 layout: layouts/books.njk

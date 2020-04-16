@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Everett Ruess'
 author: Glenn Dixon
 layout: layouts/books.njk

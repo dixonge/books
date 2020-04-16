@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'I Promise I Won’t Kill You'
 author: Glenn Dixon
 layout: layouts/books.njk

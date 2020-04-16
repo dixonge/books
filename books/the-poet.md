@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Poet'
 author: Glenn Dixon
 layout: layouts/books.njk

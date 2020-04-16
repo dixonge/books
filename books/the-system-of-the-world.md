@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The System of the World '
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: A Sand County Almanac and Sketches Here and There
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Blood Work'
 author: Glenn Dixon
 layout: layouts/books.njk

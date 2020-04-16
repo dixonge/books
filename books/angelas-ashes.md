@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Angela’s Ashes '
 author: Glenn Dixon
 layout: layouts/books.njk

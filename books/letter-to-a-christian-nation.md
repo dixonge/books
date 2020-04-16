@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Letter to a Christian Nation'
 author: Glenn Dixon
 layout: layouts/books.njk

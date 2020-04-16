@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Elephant Girl'
 author: Glenn Dixon
 layout: layouts/books.njk

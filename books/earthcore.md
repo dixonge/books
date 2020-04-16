@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Earthcore
 author: Glenn Dixon
 layout: layouts/books.njk

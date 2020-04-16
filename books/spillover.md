@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Spillover'
 author: Glenn Dixon
 layout: layouts/books.njk

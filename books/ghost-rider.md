@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Ghost Rider'
 author: Glenn Dixon
 layout: layouts/books.njk

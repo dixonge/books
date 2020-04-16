@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Happier Than a Billionaire'
 author: Glenn Dixon
 layout: layouts/books.njk

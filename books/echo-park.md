@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Echo Park'
 author: Glenn Dixon
 layout: layouts/books.njk

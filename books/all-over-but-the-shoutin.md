@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: All Over But the Shoutin’
 author: Glenn Dixon
 layout: layouts/books.njk

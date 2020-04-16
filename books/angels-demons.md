@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Angels & Demons  '
 author: Glenn Dixon
 layout: layouts/books.njk

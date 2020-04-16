@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Home '
 author: Glenn Dixon
 layout: layouts/books.njk

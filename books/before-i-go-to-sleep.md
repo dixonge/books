@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Before I Go to Sleep
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Understanding Power'
 author: Glenn Dixon
 layout: layouts/books.njk

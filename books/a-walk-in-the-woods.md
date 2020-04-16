@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: A Walk in the Woods
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Born to Run'
 author: Glenn Dixon
 layout: layouts/books.njk

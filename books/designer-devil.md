@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Designer Devil
 author: Glenn Dixon
 layout: layouts/books.njk

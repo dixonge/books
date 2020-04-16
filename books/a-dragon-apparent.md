@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'A Dragon Apparent'
 author: Glenn Dixon
 layout: layouts/books.njk

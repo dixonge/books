@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'No Place to Hide'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Snow Crash
 author: Glenn Dixon
 layout: layouts/books.njk

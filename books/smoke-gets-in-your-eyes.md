@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Smoke Gets in Your Eyes'
 author: Glenn Dixon
 layout: layouts/books.njk

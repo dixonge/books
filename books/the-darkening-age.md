@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Darkening Age'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Something Porcine This Way Comes '
 author: Glenn Dixon
 layout: layouts/books.njk

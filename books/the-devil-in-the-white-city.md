@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: The Devil in the White City
 author: Glenn Dixon
 layout: layouts/books.njk

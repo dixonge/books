@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Wired '
 author: Glenn Dixon
 layout: layouts/books.njk

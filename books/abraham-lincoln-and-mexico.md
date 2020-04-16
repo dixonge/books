@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Abraham Lincoln and Mexico'
 author: Glenn Dixon
 layout: layouts/books.njk

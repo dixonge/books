@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Orange is the New Black'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Wild'
 author: Glenn Dixon
 layout: layouts/books.njk

@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Sit. Stay. Heal.'
 author: Glenn Dixon
 layout: layouts/books.njk

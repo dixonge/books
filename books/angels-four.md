@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Angels Four
 author: Glenn Dixon
 layout: layouts/books.njk

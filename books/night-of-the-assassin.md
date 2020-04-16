@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Night of the Assassin '
 author: Glenn Dixon
 layout: layouts/books.njk

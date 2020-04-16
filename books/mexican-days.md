@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Mexican Days'
 author: Glenn Dixon
 layout: layouts/books.njk

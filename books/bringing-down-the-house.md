@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Bringing Down the House'
 author: Glenn Dixon
 layout: layouts/books.njk

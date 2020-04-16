@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'The Brass Verdict '
 author: Glenn Dixon
 layout: layouts/books.njk

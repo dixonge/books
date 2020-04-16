@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: Stranger in a Strange Land
 author: Glenn Dixon
 layout: layouts/books.njk

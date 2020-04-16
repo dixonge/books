@@ -1,6 +1,5 @@
 ---
 eleventyNavigation:
-  parent: Books
   key: 'Contagious '
 author: Glenn Dixon
 layout: layouts/books.njk
