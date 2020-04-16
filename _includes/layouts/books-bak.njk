@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: Books Read and Reviewed
+isDocs: true
+---
+
+<div id="TOC" class="elv-toc">
+	{%- if eleventyNavigation -%}
+		{%- set navKey = eleventyNavigation.key -%}
+	{%- endif -%}
+<div class="h-entry">
+<p><a href="{{ url | url }}" class="text-4xl u-url rainbow-active"><h2 class="p-name">{{ eleventyNavigation.key }}</h2></a></p>
+<div class="e-content">
+    {% if isbn13 %}
+      <img alt="{{ eleventyNavigation.key }}" align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
+    {% elif isbn %}
+      <img alt="{{ eleventyNavigation.key }}" align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
+    {% endif %}
+<p>Author: {{ bookauthor }}
+<p>Pages: {{ pages }}
+<p>Year: {{ yearpublished }}
+<p>My Rating: {{ myrating }}
+<p>
+<hr class="rating">
+<p>
+</div>
+<div class="review">
+
+{{ content | safe }}
+
+</div>
+</div>
