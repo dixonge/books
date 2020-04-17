@@ -1,25 +1,25 @@
 <ol reversed class="postlist" style="counter-reset: start-from {{ postslist.length + 1 }}">
-{% for post in postslist | reverse %}
-  <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-    <a href="{{ post.url | url }}" class="postlist-link u-url p-name rainbow-active">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-    {% for tag in post.data.tags %}
+{%- for book in collections.books | reverse -%}
+  <li class="postlist-item{% if book.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ book.url | url }}" class="postlist-link u-url p-name rainbow-active">{% if book.data.title %}{{ book.data.title }}{% else %}<code>{{ book.url }}</code>{% endif %}</a>
+    {% for tag in book.data.tags %}
       {%- if tag != "posts" -%}
       {% set tagUrl %}/tags/{{ tag }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="tag rainbow-active">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
     <p>
-    {{ post.templateContent | striptags(true) | truncate(280) }}<a href="{{ post.url | url }}">READ MORE</a>
+    {{ book.templateContent | striptags(true) | truncate(280) }}<a href="{{ book.url | url }}">READ MORE</a>
     </p>
     <br>
-    {% if post.data.image %}
-    <img alt="teaser image" class="post-image" src="{{ post.data.image }}">
-    {% elif post.data.isbn13 %}
-    <a class="book-image-link u-url" href="{{ post.url | url }}">
-      <img alt="book cover" class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn13 }}.jpg"></img></a>
-    {% elif post.data.isbn %}
-    <a class="book-image-link u-url" href="{{ post.url | url }}">
-      <img alt="book cover" class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ post.data.isbn }}.jpg"></img></a>
+    {% if book.data.image %}
+    <img alt="teaser image" class="post-image" src="{{ book.data.image }}">
+    {% elif book.data.isbn13 %}
+    <a class="book-image-link u-url" href="{{ book.url | url }}">
+      <img alt="book cover" class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ book.data.isbn13 }}.jpg"></img></a>
+    {% elif book.data.isbn %}
+    <a class="book-image-link u-url" href="{{ book.url | url }}">
+      <img alt="book cover" class="book-image" src="https://covers.openlibrary.org/b/isbn/{{ book.data.isbn }}.jpg"></img></a>
     {% endif %}
   </li>
 {% endfor %}
