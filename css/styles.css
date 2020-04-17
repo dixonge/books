@@ -198,11 +198,6 @@ main {
   margin: 0
 }
 
-header {
-  max-width: 90%;
-  display: grid;
-}
-
 header h1 {
   max-width: max-content;
 }
@@ -302,9 +297,7 @@ footer img {
 
 .postlist-item {
   counter-increment: start-from -1;
-  box-shadow: 5px 5px 5px #000;
-  margin: 20px 0;
-  background-color: var(--white)
+  margin: 5px 0;
 }
 
 li.postlist-item img {
