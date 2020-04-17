@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Still Life With Brass Pole
-author: Glenn Dixon
+date: 2020-04-01
+title: Still Life With Brass Pole
 layout: layouts/books.njk
 permalink: /books/still-life-with-brass-pole/
 Book Id:

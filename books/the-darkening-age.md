@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Darkening Age'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Darkening Age'
 layout: layouts/books.njk
 permalink: /books/the-darkening-age/
 bookauthor: Catherine Nixey

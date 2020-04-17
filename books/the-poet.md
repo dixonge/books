@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Poet'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Poet'
 layout: layouts/books.njk
 permalink: /books/the-poet/
 Book Id:

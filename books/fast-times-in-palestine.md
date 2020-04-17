@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Fast Times in Palestine'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Fast Times in Palestine'
 layout: layouts/books.njk
 permalink: /books/fast-times-in-palestine/
 Book Id:

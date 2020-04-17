@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The System of the World '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The System of the World '
 layout: layouts/books.njk
 permalink: /books/the-system-of-the-world/
 Book Id:

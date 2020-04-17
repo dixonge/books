@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'A Clean Kill in Tokyo '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'A Clean Kill in Tokyo '
 layout: layouts/books.njk
 permalink: /books/a-clean-kill-in-tokyo/
 Book Id:

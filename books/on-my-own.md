@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: On My Own
-author: Glenn Dixon
+date: 2020-04-01
+title: On My Own
 layout: layouts/books.njk
 permalink: /books/on-my-own/
 Book Id:

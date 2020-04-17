@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'No Place to Hide'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'No Place to Hide'
 layout: layouts/books.njk
 permalink: /books/no-place-to-hide/
 Book Id:

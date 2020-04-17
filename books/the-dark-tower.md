@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Dark Tower '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Dark Tower '
 layout: layouts/books.njk
 permalink: /books/the-dark-tower-the-dark-tower-7/
 Book Id:

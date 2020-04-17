@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'I Promise I Won’t Kill You'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'I Promise I Won’t Kill You'
 layout: layouts/books.njk
 permalink: /books/i-promise-i-wont-kill-you/
 Book Id:

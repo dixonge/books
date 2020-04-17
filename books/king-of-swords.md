@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: King of Swords
-author: Glenn Dixon
+date: 2020-04-01
+title: King of Swords
 layout: layouts/books.njk
 permalink: /books/king-of-swords/
 image: /img/2018/07/KOS.jpg

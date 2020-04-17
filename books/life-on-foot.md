@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Life on Foot'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Life on Foot'
 layout: layouts/books.njk
 permalink: /books/life-on-foot-a-walk-across-america/
 Book Id:

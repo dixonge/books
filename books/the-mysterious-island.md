@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Mysterious Island '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Mysterious Island '
 layout: layouts/books.njk
 permalink: /books/the-mysterious-island/
 Book Id:

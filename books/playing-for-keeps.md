@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Playing for Keeps
-author: Glenn Dixon
+date: 2020-04-01
+title: Playing for Keeps
 layout: layouts/books.njk
 permalink: /books/playing-for-keeps/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Letter to a Christian Nation'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Letter to a Christian Nation'
 layout: layouts/books.njk
 permalink: /books/letter-to-a-christian-nation/
 Book Id:

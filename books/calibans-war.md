@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Caliban’s War '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Caliban’s War '
 layout: layouts/books.njk
 permalink: /books/calibans-war-expanse-2/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The $100 Startup'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The $100 Startup'
 layout: layouts/books.njk
 permalink: /books/the-100-startup/
 Book Id:

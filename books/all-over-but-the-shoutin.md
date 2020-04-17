@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: All Over But the Shoutin’
-author: Glenn Dixon
+date: 2020-04-01
+title: All Over But the Shoutin’
 layout: layouts/books.njk
 permalink: /books/all-over-but-the-shoutin/
 Book Id:

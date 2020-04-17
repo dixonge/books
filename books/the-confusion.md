@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Confusion '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Confusion '
 layout: layouts/books.njk
 permalink: /books/the-confusion-the-baroque-cycle-2/
 Book Id:

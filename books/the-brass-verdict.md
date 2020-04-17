@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Brass Verdict '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Brass Verdict '
 layout: layouts/books.njk
 permalink: /books/the-brass-verdict/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Earthcore
-author: Glenn Dixon
+date: 2020-04-01
+title: Earthcore
 layout: layouts/books.njk
 permalink: /books/earthcore/
 Book Id:

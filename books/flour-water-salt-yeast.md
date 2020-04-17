@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Flour Water Salt Yeast'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Flour Water Salt Yeast'
 layout: layouts/books.njk
 permalink: /books/flour-water-salt-yeast/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Interface
-author: Glenn Dixon
+date: 2020-04-01
+title: Interface
 layout: layouts/books.njk
 permalink: /books/interface/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Mexican Humor 201
-author: Glenn Dixon
+date: 2020-04-01
+title: Mexican Humor 201
 layout: layouts/books.njk
 permalink: /books/mexican-humor-201/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Around the World in 50 Years'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Around the World in 50 Years'
 layout: layouts/books.njk
 permalink: /books/around-the-world-in-50-years/
 Book Id:

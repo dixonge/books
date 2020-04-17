@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Trunk Music'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Trunk Music'
 layout: layouts/books.njk
 permalink: /books/trunk-music/
 Book Id:

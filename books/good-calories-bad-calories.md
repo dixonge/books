@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Good Calories, Bad Calories'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Good Calories, Bad Calories'
 layout: layouts/books.njk
 permalink: /books/good-calories-bad-calories/
 Book Id:

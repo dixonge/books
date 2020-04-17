@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Elephant Girl'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Elephant Girl'
 layout: layouts/books.njk
 permalink: /books/elephant-girl-a-human-story/
 Book Id:

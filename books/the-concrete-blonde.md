@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Concrete Blonde'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Concrete Blonde'
 layout: layouts/books.njk
 permalink: /books/the-concrete-blonde/
 Book Id:

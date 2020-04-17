@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Those Girls'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Those Girls'
 layout: layouts/books.njk
 permalink: /books/those-girls-a-novel/
 Book Id:

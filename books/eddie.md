@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Eddie'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Eddie'
 layout: layouts/books.njk
 permalink: /books/eddie/
 Book Id:

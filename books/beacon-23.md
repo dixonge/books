@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Beacon 23 '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Beacon 23 '
 layout: layouts/books.njk
 permalink: /books/beacon-23-beacon-23-1-5/
 Book Id:

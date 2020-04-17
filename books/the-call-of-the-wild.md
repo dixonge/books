@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: The Call of the Wild
-author: Glenn Dixon
+date: 2020-04-01
+title: The Call of the Wild
 layout: layouts/books.njk
 permalink: /books/the-call-of-the-wild/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Stranger in a Strange Land
-author: Glenn Dixon
+date: 2020-04-01
+title: Stranger in a Strange Land
 layout: layouts/books.njk
 permalink: /books/stranger-in-a-strange-land/
 Book Id:

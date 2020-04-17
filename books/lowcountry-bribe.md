@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Lowcountry Bribe '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Lowcountry Bribe '
 layout: layouts/books.njk
 permalink: /books/lowcountry-bribe/
 image: /img/2018/07/lowcountry.jpeg

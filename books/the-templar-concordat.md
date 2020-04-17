@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: The Templar Concordat
-author: Glenn Dixon
+date: 2020-04-01
+title: The Templar Concordat
 layout: layouts/books.njk
 permalink: /books/the-templar-concordat/
 Book Id:

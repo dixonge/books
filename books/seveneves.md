@@ -1,8 +1,7 @@
 ---
-eleventyNavigation:
-  key: "Seveneves"
+date: 2020-04-01
+title: "Seveneves"
 layout: layouts/books.njk
-author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
 isbn13: 9780062190376

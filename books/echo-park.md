@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Echo Park'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Echo Park'
 layout: layouts/books.njk
 permalink: /books/echo-park/
 Book Id:

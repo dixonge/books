@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Quicksilver '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Quicksilver '
 layout: layouts/books.njk
 permalink: /books/quicksilver-the-baroque-cycle-1/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'A Dog Year'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'A Dog Year'
 layout: layouts/books.njk
 permalink: /books/a-dog-year/
 Book Id:

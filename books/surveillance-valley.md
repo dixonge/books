@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Surveillance Valley'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Surveillance Valley'
 layout: layouts/books.njk
 permalink: /books/surveillance-valley/
 bookauthor: Yasha Levine

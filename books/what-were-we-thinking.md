@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: What Were We Thinking?
-author: Glenn Dixon
+date: 2020-04-01
+title: What Were We Thinking?
 layout: layouts/books.njk
 permalink: /books/what-were-we-thinking/
 Book Id:

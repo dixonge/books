@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Lisa Emmer Historical Thrillers Vol. 1-2 (Lisa Emmer Historical Thriller Series)
-author: Glenn Dixon
+date: 2020-04-01
+title: Lisa Emmer Historical Thrillers Vol. 1-2
 layout: layouts/books.njk
 permalink: /books/lisa-emmer-historical-thrillers-vol-1-2/
 Book Id:

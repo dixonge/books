@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Wild Trees'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Wild Trees'
 layout: layouts/books.njk
 permalink: /books/the-wild-trees/
 Book Id:

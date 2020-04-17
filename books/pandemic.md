@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Pandemic '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Pandemic '
 layout: layouts/books.njk
 permalink: /books/pandemic/
 Book Id:

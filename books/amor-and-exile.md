@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Amor and Exile
-author: Glenn Dixon
+date: 2020-04-01
+title: Amor and Exile
 layout: layouts/books.njk
 permalink: /books/amor-and-exile/
 Book Id:

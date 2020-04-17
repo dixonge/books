@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Ocean of Storms
-author: Glenn Dixon
+date: 2020-04-01
+title: Ocean of Storms
 layout: layouts/books.njk
 permalink: /books/ocean-of-storms/
 Book Id:

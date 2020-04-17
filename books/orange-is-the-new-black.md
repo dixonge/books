@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Orange is the New Black'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Orange is the New Black'
 layout: layouts/books.njk
 permalink: /books/orange-is-the-new-black/
 bookauthor: Piper Kerman

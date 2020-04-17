@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'How Not to Die'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'How Not to Die'
 layout: layouts/books.njk
 permalink: /books/how-not-to-die/
 Book Id:

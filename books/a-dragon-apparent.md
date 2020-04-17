@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'A Dragon Apparent'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'A Dragon Apparent'
 layout: layouts/books.njk
 permalink: /books/a-dragon-apparent/
 Book Id:

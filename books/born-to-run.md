@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Born to Run'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Born to Run'
 layout: layouts/books.njk
 permalink: /books/born-to-run/
 Book Id:

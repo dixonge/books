@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Caxton Tempest at the End of the World
-author: Glenn Dixon
+date: 2020-04-01
+title: Caxton Tempest at the End of the World
 layout: layouts/books.njk
 permalink: /books/caxton-tempest-at-the-end-of-the-world/
 Book Id:

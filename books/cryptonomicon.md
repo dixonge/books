@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Cryptonomicon
-author: Glenn Dixon
+date: 2020-04-01
+title: Cryptonomicon
 layout: layouts/books.njk
 permalink: /books/cryptonomicon/
 Book Id:

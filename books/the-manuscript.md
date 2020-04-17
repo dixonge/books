@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Manuscript '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Manuscript '
 layout: layouts/books.njk
 permalink: /books/the-manuscript/
 Book Id:

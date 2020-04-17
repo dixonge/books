@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Angels Four
-author: Glenn Dixon
+date: 2020-04-01
+title: Angels Four
 layout: layouts/books.njk
 permalink: /books/angels-four/
 Book Id:

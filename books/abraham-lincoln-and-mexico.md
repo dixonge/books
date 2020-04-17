@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Abraham Lincoln and Mexico'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Abraham Lincoln and Mexico'
 layout: layouts/books.njk
 permalink: /books/abraham-lincoln-and-mexico/
 Book Id:

@@ -1,8 +1,7 @@
 ---
-eleventyNavigation:
-  key: "Anathem"
+date: 2020-04-01
+title: "Anathem"
 layout: layouts/books.njk
-author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
 isbn13: 9780061474095

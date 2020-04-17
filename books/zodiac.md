@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Zodiac
-author: Glenn Dixon
+date: 2020-04-01
+title: Zodiac
 layout: layouts/books.njk
 permalink: /books/zodiac/
 Book Id:

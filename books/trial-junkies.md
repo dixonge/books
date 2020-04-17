@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Trial Junkies '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Trial Junkies '
 layout: layouts/books.njk
 permalink: /books/trial-junkies-trial-junkies-1/
 Book Id:

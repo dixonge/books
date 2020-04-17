@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Pledge to the Wind, the Legend of Everett Ruess
-author: Glenn Dixon
+date: 2020-04-01
+title: Pledge to the Wind, the Legend of Everett Ruess
 layout: layouts/books.njk
 permalink: /books/pledge-to-the-wind/
 Book Id:

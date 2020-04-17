@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Dream Save Do'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Dream Save Do'
 layout: layouts/books.njk
 permalink: /books/dream-save-do/
 Book Id:

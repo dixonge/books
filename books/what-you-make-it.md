@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'What You Make It'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'What You Make It'
 layout: layouts/books.njk
 permalink: /books/what-you-make-it/
 Book Id:

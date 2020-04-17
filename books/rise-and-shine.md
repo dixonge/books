@@ -1,6 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Rise and Shine'
+date: 2020-04-01
+title: 'Rise and Shine'
 author:
   - Simon Lewis
 layout: layouts/books.njk

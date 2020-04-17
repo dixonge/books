@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Emergency'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Emergency'
 layout: layouts/books.njk
 permalink: /books/emergency/
 Book Id:

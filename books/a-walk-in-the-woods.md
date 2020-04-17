@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: A Walk in the Woods
-author: Glenn Dixon
+date: 2020-04-01
+title: A Walk in the Woods
 layout: layouts/books.njk
 permalink: /books/a-walk-in-the-woods/
 Book Id:

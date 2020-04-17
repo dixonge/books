@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Cities of Gold'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Cities of Gold'
 layout: layouts/books.njk
 permalink: /books/cities-of-gold/
 Book Id:

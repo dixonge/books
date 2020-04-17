@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Antidote'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Antidote'
 layout: layouts/books.njk
 permalink: /books/the-antidote/
 bookauthor: Oliver Burkeman

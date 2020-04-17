@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Finding Everett Ruess'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Finding Everett Ruess'
 layout: layouts/books.njk
 permalink: /books/finding-everett-ruess/
 Book Id:

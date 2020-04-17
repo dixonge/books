@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Mexican Days'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Mexican Days'
 layout: layouts/books.njk
 permalink: /books/mexican-days/
 Book Id:

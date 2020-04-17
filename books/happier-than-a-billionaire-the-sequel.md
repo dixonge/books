@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Happier Than a Billionaire'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Happier Than a Billionaire'
 layout: layouts/books.njk
 permalink: /books/happier-than-a-billionaire-the-sequel/
 image: /img/2018/07/billion.jpg

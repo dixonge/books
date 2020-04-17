@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Angela’s Ashes '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Angela’s Ashes '
 layout: layouts/books.njk
 permalink: /books/angelas-ashes-frank-mccourt-1/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: The Devil in the White City
-author: Glenn Dixon
+date: 2020-04-01
+title: The Devil in the White City
 layout: layouts/books.njk
 permalink: /books/the-devil-in-the-white-city/
 book_id:

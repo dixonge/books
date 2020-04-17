@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Infected '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Infected '
 layout: layouts/books.njk
 permalink: /books/infected-infected-1/
 Book Id:

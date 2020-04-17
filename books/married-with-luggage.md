@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Married with Luggage'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Married with Luggage'
 layout: layouts/books.njk
 permalink: /books/married-with-luggage/
 Book Id:

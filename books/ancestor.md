@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Ancestor
-author: Glenn Dixon
+date: 2020-04-01
+title: Ancestor
 layout: layouts/books.njk
 permalink: /books/ancestor/
 Book Id:

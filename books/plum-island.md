@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Plum Island '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Plum Island '
 layout: layouts/books.njk
 permalink: /books/plum-island-john-corey-1/
 Book Id:

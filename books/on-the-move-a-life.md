@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'On the Move'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'On the Move'
 layout: layouts/books.njk
 permalink: /books/on-the-move-a-life/
 Book Id:

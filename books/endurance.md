@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Endurance'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Endurance'
 layout: layouts/books.njk
 permalink: /books/endurance/
 Book Id:

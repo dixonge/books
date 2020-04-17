@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'On Mexican Time'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'On Mexican Time'
 layout: layouts/books.njk
 permalink: /books/on-mexican-time/
 Book Id:

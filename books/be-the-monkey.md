@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Be the Monkey'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Be the Monkey'
 layout: layouts/books.njk
 permalink: /books/be-the-monkey/
 Book Id:

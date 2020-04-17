@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Judgment of Paris'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Judgment of Paris'
 layout: layouts/books.njk
 permalink: /books/judgment-of-paris/
 Book Id:

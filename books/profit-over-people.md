@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Profit Over People'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Profit Over People'
 layout: layouts/books.njk
 permalink: /books/profit-over-people/
 Book Id:

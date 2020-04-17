@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Five Days at Memorial'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Five Days at Memorial'
 layout: layouts/books.njk
 permalink: /books/five-days-at-memorial/
 Book Id:

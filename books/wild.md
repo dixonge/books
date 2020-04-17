@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Wild'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Wild'
 layout: layouts/books.njk
 permalink: /books/wild/
 Book Id:

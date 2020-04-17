@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Coming Clean
-author: Glenn Dixon
+date: 2020-04-01
+title: Coming Clean
 layout: layouts/books.njk
 permalink: /books/coming-clean/
 Book Id:

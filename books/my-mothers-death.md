@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'On Hearing of My Mother’s Death Six Years After It Happened'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'On Hearing of My Mother’s Death Six Years After It Happened'
 layout: layouts/books.njk
 permalink: /books/on-hearing-of-my-mothers-death-six-years-after-it-happened/
 Book Id:

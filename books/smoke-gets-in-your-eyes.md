@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Smoke Gets in Your Eyes'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Smoke Gets in Your Eyes'
 layout: layouts/books.njk
 permalink: /books/smoke-gets-in-your-eyes/
 Book Id:

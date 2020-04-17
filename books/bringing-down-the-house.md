@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Bringing Down the House'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Bringing Down the House'
 layout: layouts/books.njk
 permalink: /books/bringing-down-the-house/
 Book Id:

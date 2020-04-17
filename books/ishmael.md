@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Ishmael'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Ishmael'
 layout: layouts/books.njk
 permalink: /books/ishmael/
 Book Id:

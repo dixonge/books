@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Brave Men Run – A Novel of the Sovereign Era
-author: Glenn Dixon
+date: 2020-04-01
+title: Brave Men Run – A Novel of the Sovereign Era
 layout: layouts/books.njk
 permalink: /books/brave-men-run/
 Book Id:

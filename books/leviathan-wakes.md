@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Leviathan Wakes '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Leviathan Wakes '
 layout: layouts/books.njk
 permalink: /books/leviathan-wakes-expanse-1/
 Book Id:

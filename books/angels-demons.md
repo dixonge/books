@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Angels & Demons  '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Angels & Demons  '
 layout: layouts/books.njk
 permalink: /books/angels-demons-robert-langdon-1/
 Book Id:

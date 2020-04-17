@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Spillover'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Spillover'
 layout: layouts/books.njk
 permalink: /books/spillover-animal-infections-and-the-next-human-pandemic/
 Book Id:

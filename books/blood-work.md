@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Blood Work'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Blood Work'
 layout: layouts/books.njk
 permalink: /books/blood-work/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: The Sociopath Next Door
-author: Glenn Dixon
+date: 2020-04-01
+title: The Sociopath Next Door
 layout: layouts/books.njk
 permalink: /books/the-sociopath-next-door/
 Book Id:

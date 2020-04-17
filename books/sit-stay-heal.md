@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Sit. Stay. Heal.'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Sit. Stay. Heal.'
 layout: layouts/books.njk
 permalink: /books/sit-stay-heal/
 image: /img/2018/07/sitstayheaL.jpg

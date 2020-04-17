@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Living at Lake Chapala
-author: Glenn Dixon
+date: 2020-04-01
+title: Living at Lake Chapala
 layout: layouts/books.njk
 permalink: /books/living-at-lake-chapala/
 Book Id:

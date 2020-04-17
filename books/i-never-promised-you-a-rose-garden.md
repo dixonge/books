@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: I Never Promised You a Rose Garden
-author: Glenn Dixon
+date: 2020-04-01
+title: I Never Promised You a Rose Garden
 layout: layouts/books.njk
 permalink: /books/i-never-promised-you-a-rose-garden/
 Book Id:

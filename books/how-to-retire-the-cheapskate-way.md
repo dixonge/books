@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'How to Retire the Cheapskate Way'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'How to Retire the Cheapskate Way'
 layout: layouts/books.njk
 permalink: /books/how-to-retire-the-cheapskate-way/
 Book Id:

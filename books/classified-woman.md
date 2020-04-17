@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Classified Woman
-author: Glenn Dixon
+date: 2020-04-01
+title: Classified Woman
 layout: layouts/books.njk
 permalink: /books/classified-woman/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Behind the Beautiful Forevers'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Behind the Beautiful Forevers'
 layout: layouts/books.njk
 permalink: /books/behind-the-beautiful-forevers/
 Book Id:

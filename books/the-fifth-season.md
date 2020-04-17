@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Fifth Season '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Fifth Season '
 layout: layouts/books.njk
 permalink: /books/the-fifth-season-the-broken-earth-1/
 Book Id:

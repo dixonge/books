@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Home '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Home '
 layout: layouts/books.njk
 permalink: /books/home-the-traveler-1/
 Book Id:

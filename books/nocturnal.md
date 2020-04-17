@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Nocturnal
-author: Glenn Dixon
+date: 2020-04-01
+title: Nocturnal
 layout: layouts/books.njk
 permalink: /books/nocturnal/
 Book Id:

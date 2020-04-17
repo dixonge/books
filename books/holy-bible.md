@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Holy Bible'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Holy Bible'
 layout: layouts/books.njk
 Book Id:
   - 1923820

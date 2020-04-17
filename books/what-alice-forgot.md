@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: What Alice Forgot
-author: Glenn Dixon
+date: 2020-04-01
+title: What Alice Forgot
 layout: layouts/books.njk
 permalink: /books/what-alice-forgot/
 Book Id:

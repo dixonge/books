@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Ghost Rider'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Ghost Rider'
 layout: layouts/books.njk
 permalink: /books/ghost-rider/
 Book Id:

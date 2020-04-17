@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Night of the Assassin '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Night of the Assassin '
 layout: layouts/books.njk
 permalink: /books/night-of-the-assassin-assassin-1/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Timecaster Supersymmetry '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Timecaster Supersymmetry '
 layout: layouts/books.njk
 permalink: /books/timecaster-supersymmetry-timecaster-2/
 Book Id:

@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: A Year in Provence
-author: Glenn Dixon
+date: 2020-04-01
+title: A Year in Provence
 layout: layouts/books.njk
 permalink: /books/a-year-in-provence/
 Book Id:

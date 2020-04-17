@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Ugly Americans'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Ugly Americans'
 layout: layouts/books.njk
 permalink: /books/ugly-americans/
 Book Id:

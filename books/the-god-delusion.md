@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: The God Delusion
-author: Glenn Dixon
+date: 2020-04-01
+title: The God Delusion
 layout: layouts/books.njk
 permalink: /books/the-god-delusion/
 Book Id:

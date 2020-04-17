@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Before I Go to Sleep
-author: Glenn Dixon
+date: 2020-04-01
+title: Before I Go to Sleep
 layout: layouts/books.njk
 permalink: /books/before-i-go-to-sleep/
 Book Id:

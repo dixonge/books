@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Everett Ruess'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Everett Ruess'
 layout: layouts/books.njk
 permalink: /books/everett-ruess-a-vagabond-for-beauty/
 Book Id:

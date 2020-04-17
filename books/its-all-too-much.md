@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'It’s All Too Much'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'It’s All Too Much'
 layout: layouts/books.njk
 permalink: /books/its-all-too-much/
 Book Id:

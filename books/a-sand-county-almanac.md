@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: A Sand County Almanac and Sketches Here and There
-author: Glenn Dixon
+date: 2020-04-01
+title: A Sand County Almanac and Sketches Here and There
 layout: layouts/books.njk
 permalink: /books/a-sand-county-almanac-and-sketches-here-and-there/
 Book Id:

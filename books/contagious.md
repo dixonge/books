@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Contagious '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Contagious '
 layout: layouts/books.njk
 permalink: /books/contagious-infected-2/
 Book Id:

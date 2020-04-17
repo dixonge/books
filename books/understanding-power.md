@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Understanding Power'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Understanding Power'
 layout: layouts/books.njk
 permalink: /books/understanding-power/
 Book Id:

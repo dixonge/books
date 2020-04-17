@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'Wired '
-author: Glenn Dixon
+date: 2020-04-01
+title: 'Wired '
 layout: layouts/books.njk
 permalink: /books/wired-wired-1/
 Book Id:

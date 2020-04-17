@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: The Art of Racing in the Rain
-author: Glenn Dixon
+date: 2020-04-01
+title: The Art of Racing in the Rain
 layout: layouts/books.njk
 permalink: /books/the-art-of-racing-in-the-rain/
 Book Id:

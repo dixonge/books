@@ -1,9 +1,8 @@
 ---
-eleventyNavigation:
-  key: "Reamde"
+date: 2020-04-01
+title: "Reamde"
 layout: layouts/books.njk
 draft: false
-author: Glenn Dixon
 bookauthor: Neal Stephenson
 author_l-f: Stephenson, Neal
 isbn13: 9780061977961

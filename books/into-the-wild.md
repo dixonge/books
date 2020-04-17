@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: Into the Wild
-author: Glenn Dixon
+date: 2020-04-01
+title: Into the Wild
 layout: layouts/books.njk
 permalink: /books/into-the-wild/
 Book Id:

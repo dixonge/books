@@ -1,7 +1,6 @@
 ---
-eleventyNavigation:
-  key: 'The Black Echo'
-author: Glenn Dixon
+date: 2020-04-01
+title: 'The Black Echo'
 layout: layouts/books.njk
 permalink: /books/the-black-echo/
 Book Id:
