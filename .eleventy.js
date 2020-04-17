@@ -1,12 +1,17 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
-
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+  
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.setDataDeepMerge(true);
 
-  const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addCollection("sidebarNav", function(collection) {
+    // everything but news
+    return collection.getAll().filter(item => (item.data.tags || []).indexOf("news") === -1);
+  });
 
   const filters = require('./_11ty/filters');
   eleventyConfig.addFilter("readableDate", dateObj => {
@@ -44,25 +49,15 @@ Object.keys(filters).forEach(filterName => {
   eleventyConfig.addPassthroughCopy("./*.webmanifest");  
   eleventyConfig.addPassthroughCopy("./*.png");
   eleventyConfig.addPassthroughCopy("./*.ico");
-  eleventyConfig.addPassthroughCopy("./details-force-state.js");
+  eleventyConfig.addPassthroughCopy("./*.js");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     html: true,
     breaks: true,
     linkify: true
   };
-  let opts = {
-    permalink: true,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
-  };
-
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
 
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
