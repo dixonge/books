@@ -1,0 +1,7 @@
+<ol reversed class="postlist" style="counter-reset: start-from {{ postslist.length + 1 }}">
+{%- for book in collections.books -%}
+  <li class="postlist-item{% if book.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ book.url | url }}" class="postlist-link u-url p-name rainbow-active">{% if book.data.title %}{{ book.data.title }}{% else %}<code>{{ book.url }}</code>{% endif %}</a>
+  </li>
+{% endfor %}
+</ol>
