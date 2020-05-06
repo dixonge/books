@@ -1,4 +1,4 @@
-# books-11ty
+# books
 
 Glenn's book reviews
 
