@@ -26,7 +26,6 @@ isDocs: true
 <p><h2 class="p-name">{{ title }}</h2></p>
 <div class="e-content">
     {% if isbn13 %}
-      <img alt="{{ title }}" align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn13 }}.jpg"></img>
     {% elif isbn %}
       <img alt="{{ title }}" align="left" class="float-left mb-1 mr-1 book-image" src="https://covers.openlibrary.org/b/isbn/{{ isbn }}.jpg"></img>
     {% endif %}
